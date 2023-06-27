@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>nexus-release</name>
-	      <url>http://172.31.47.83:8081/repository/walmart-release/</url>
+	      <url>http://172.31.34.18:8081/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>nexus-snapshot</name>
-	      <url>http://172.31.47.83:8081/repository/walmart-snapshot/</url>
+	      <url>http://172.31.34.18:8081/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
